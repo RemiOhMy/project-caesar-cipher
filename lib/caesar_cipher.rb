@@ -24,6 +24,3 @@ def caesar_cipher(string, shift)
     end
     cipher.join
 end
-
-p caesar_cipher("Wow!", 10)
-p caesar_cipher("Is this correct, I wonder?", 5)
